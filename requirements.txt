@@ -1,0 +1,4 @@
+certifi==2021.5.30
+numpy==1.21.1
+opencv-contrib-python==4.5.3.56
+wincertstore==0.2
